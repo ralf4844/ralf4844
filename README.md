@@ -6,7 +6,11 @@
 
 I am graduated in electronic engineering, passionate about web development.
 
-👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
+🔭 I have done work in python and C++.
+ 
+👯 I am studying to specialize in backend developer  and data .
+
+🔭I am currently looking for a job as a junior development to strengthen my skills
  
 ---
 
