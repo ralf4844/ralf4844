@@ -3,6 +3,10 @@
 <p align="center">
   <img src="https://github.com/ralf4844/my_repository/blob/main/PERFILGIT.jpg" width="100%" height="300px" title="Intro Card" alt="Intro Card">
 </p>
+
+I am graduated in electronic engineering, passionate about web development
+👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
+ 
 ---
 
 ### languages & Tools 
