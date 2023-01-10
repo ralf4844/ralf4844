@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ralf4844/my_repository/blob/main/PERFILGIT.jpg" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://github.com/ralf4844/my_repository/blob/main/PERFILGIT.jpg" width="50% " title="Intro Card" alt="Intro Card">
 </p>
 ### languages & Tools 
 <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"><img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
